@@ -1,6 +1,6 @@
 # front_end_task
 
-## Project setup
+## Project setup (needed) - to get the node modules
 ```
 npm install
 ```
